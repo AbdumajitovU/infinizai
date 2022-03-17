@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@200&display=swap");
+
+.mainHeader {
+  background: linear-gradient(to right, black 56%, #57b8ff 44%);
+}
+* {
+  font-family: "Orbitron", sans-serif;
+}
+
+.shop {
+  background-color: rgb(175, 159, 159);
+  background-image: url("../images/mainBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+.y {
+  width: 660px;
+  height: 518px;
+  background-image: url("../images/IMAGE.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.character .char-img {
+  height: 695px;
+  width: 596px;
+  background-image: url("../images/character.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.character {
+  background-color: #2a313c;
+}
+
+.char-game1 {
+  width: 172px;
+  height: 103px;
+  background-image: url("../images/char1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 30px;
+}
+
+.char-game2 {
+  width: 172px;
+  height: 103px;
+  background-image: url("../images/char2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 30px;
+}
+
+.char-game3 {
+  width: 172px;
+  height: 103px;
+  background-image: url("../images/char3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 30px;
+}
+
+.player {
+  width: 492px;
+  height: 550px;
+  border-radius: 24px;
+  background-image: url("../images/player.png");
+}
+
+.game1 {
+  background-image: url("../images/fps.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+}
+
+.game2 {
+  background-image: url("../images/multi.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+}
+
+.game3 {
+  background-image: url("../images/openWorld.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+}
+
+.contact {
+  background-image: url("../images/contactBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.footer {
+  background-color: #222730;
+}
+
+.mainC {
+  height: 510px;
+  width: 648px;
+  border-radius: 12px;
+  background-image: url("../images/mainC.png");
+  background-repeat: no-repeat;
+}
+
+
+.new1{
+  height: 189px;
+  width: 312px;
+  border-radius: 12px;
+  background-image: url("../images/news1.png");
+  background-repeat: no-repeat;
+}
+
+.new2{
+  height: 189px;
+  width: 312px;
+  border-radius: 12px;
+  background-image: url("../images/news2.png");
+  background-repeat: no-repeat;
+}
+
+.new3{
+  height: 189px;
+  width: 312px;
+  border-radius: 12px;
+  background-image: url("../images/news3.png");
+  background-repeat: no-repeat;
+}
+
+.new4{
+  height: 189px;
+  width: 312px;
+  border-radius: 12px;
+  background-image: url("../images/news4.png");
+  background-repeat: no-repeat;
+}
