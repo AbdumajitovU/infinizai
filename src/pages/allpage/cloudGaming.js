@@ -38,7 +38,9 @@ function CloudGaming() {
       </div>
 
       <div className="player md:flex hidden justify-center items-center ">
-        {play}
+        <span className="bg-gray-600 p-10 rounded-full bg-opacity-50">
+          {play}
+        </span>
       </div>
     </div>
   );

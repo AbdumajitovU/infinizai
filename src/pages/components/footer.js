@@ -8,8 +8,8 @@ import {
 
 function Footer() {
   return (
-    <div className="py-6">
-      <div className="grid grid-cols-1 md:grid-cols-4 pt-32 px-6 md:px-14 md:space-x-10 space-x-0 space-y-10 md:space-y-0 md:h-[32rem]">
+    <div className="py-6 flex flex-col">
+      <div className="grid grid-cols-1 md:grid-cols-4 pt-16 px-6 md:px-14 md:space-x-10 space-x-0 space-y-10 py-6 md:space-y-0">
         <div>
           <div className="flex w-full items-center">
             {mainLogo}
@@ -56,7 +56,7 @@ function Footer() {
         </div>
       </div>
 
-      <hr className="mx-14 my-6" />
+      <hr className="mx-14 bg-red-600" />
 
       <p className="text-gray-400 mt-12 text-center">
         Copyright by 2022 Abdumajitov

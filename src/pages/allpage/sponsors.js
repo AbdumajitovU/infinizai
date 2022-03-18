@@ -35,7 +35,7 @@ function Sponsors() {
           </p>
         </div>
 
-        <div className="md:flex grid grid-cols-2 h-full gap-8">
+        <div className="md:flex grid grid-cols-1 sm:grid sm:grid-cols-2 h-full gap-8">
           <div className="bg-orange-200 h-24 w-48 rounded-lg flex justify-center items-center">
             {ideaa}
           </div>

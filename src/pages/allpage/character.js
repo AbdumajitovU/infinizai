@@ -17,7 +17,7 @@ function CharacterPage() {
           <h1 className="text-white text-5xl">Own Character</h1>
         </div>
 
-        <div className="mt-10">
+        <div className="mt-10 md:pl-8 pl-0">
           <p className="text-white text-lg">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           </p>
